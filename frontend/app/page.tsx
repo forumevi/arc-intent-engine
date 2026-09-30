@@ -135,7 +135,7 @@ export default function Home() {
           Say what you want.<br />Arc handles the rest.
         </h1>
         <p style={{ fontSize: 16, color: '#94a3b8', maxWidth: 480, margin: '0 auto 40px' }}>
-          Write any USDC automation in plain English. AI parses it, Arc executes it automatically — scheduled or conditional.
+          Write any USDC automation in plain English. Arc executes it on schedule or when your conditions are met.
         </p>
 
         {/* Stats */}
